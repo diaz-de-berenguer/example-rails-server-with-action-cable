@@ -19,3 +19,6 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# Skip SSH rake task
+/lib/tasks/ssh.rake
