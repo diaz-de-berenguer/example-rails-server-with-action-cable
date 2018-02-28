@@ -22,3 +22,6 @@
 
 # Skip SSH rake task
 /lib/tasks/ssh.rake
+
+# Ignore application configuration
+/config/application.yml
